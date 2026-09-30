@@ -73,4 +73,6 @@ The survey data is © Stack Overflow and licensed under the
 repository; it's downloaded when you run the analysis. The derived figures and charts here are produced from it.
 This is an independent analysis, not affiliated with Stack Overflow.
 
-The code is released under the [MIT License](LICENSE).
+## License
+
+© 2026 Hamza Ben Ismail. All rights reserved.
