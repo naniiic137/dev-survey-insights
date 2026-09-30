@@ -1,0 +1,24 @@
+{
+  "respondents": 49191,
+  "countries": 177,
+  "salaries_used": 15685,
+  "median_salary_world": 77730.0,
+  "daily_ai_pct": 50.6,
+  "remote_pct": 34.4,
+  "north_africa": {
+    "respondents": {
+      "Egypt": 140,
+      "Morocco": 55,
+      "Algeria": 49,
+      "Tunisia": 46
+    },
+    "respondents_total": 290,
+    "salaries_n": 68,
+    "median_salary": 12246.0,
+    "median_salary_world": 77730.0,
+    "daily_ai_pct": 74.7,
+    "daily_ai_pct_world": 50.6,
+    "remote_pct": 39.7,
+    "remote_pct_world": 34.4
+  }
+}

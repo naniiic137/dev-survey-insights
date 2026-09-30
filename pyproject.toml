@@ -1,0 +1,19 @@
+[project]
+name = "devsurvey"
+version = "1.0.0"
+description = "Analysis and dashboard of the Stack Overflow Developer Survey, with a North Africa focus"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+src = ["src"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"src/devsurvey/dashboard.py" = ["E501"]  # the HTML template reads better unwrapped
